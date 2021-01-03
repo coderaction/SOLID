@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <AssemblyName>Good-Single-Responsibility-Principle</AssemblyName>
+        <RootNamespace>Good-Single-Responsibility-Principle</RootNamespace>
+    </PropertyGroup>
+
+</Project>

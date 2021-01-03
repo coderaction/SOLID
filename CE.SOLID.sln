@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP.GOOD", "SRP.GOOD", "{40
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bad-Single-Responsibility-Principle", "Bad-Single-Responsibility-Principle\Bad-Single-Responsibility-Principle.csproj", "{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good_Single_Responsibility_Principle", "Good_Single_Responsibility_Principle\Good_Single_Responsibility_Principle.csproj", "{D63D29F6-5F1A-4655-9D7E-65197076DD60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good-Single-Responsibility-Principle", "Good-Single-Responsibility-Principle\Good-Single-Responsibility-Principle.csproj", "{D63D29F6-5F1A-4655-9D7E-65197076DD60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

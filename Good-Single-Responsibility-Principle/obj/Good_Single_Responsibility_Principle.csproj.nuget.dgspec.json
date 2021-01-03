@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/Good_Single_Responsibility_Principle.csproj",
-        "projectName": "Good_Single_Responsibility_Principle",
+        "projectName": "Good-Single-Responsibility-Principle",
         "projectPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/Good_Single_Responsibility_Principle.csproj",
         "packagesPath": "/Users/serkaneren/.nuget/packages/",
         "outputPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/obj/",
