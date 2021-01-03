@@ -1,0 +1,7 @@
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/bin/Debug/net48/Bad-Single-Responsibility-Principle.pdb
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/obj/Debug/net48/Bad-Single-Responsibility-Principle.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/obj/Debug/net48/Bad-Single-Responsibility-Principle.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/obj/Debug/net48/Bad-Single-Responsibility-Principle.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/obj/Debug/net48/Bad-Single-Responsibility-Principle.pdb
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/bin/Debug/net48/Bad-Single-Responsibility-Principle.dll
+/Users/serkaneren/Desktop/gitP/SOLID/Bad-Single-Responsibility-Principle/obj/Debug/net48/Bad-Single-Responsibility-Principle.dll

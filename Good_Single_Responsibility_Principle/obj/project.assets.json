@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": []
+  },
+  "packageFolders": {
+    "/Users/serkaneren/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/Good_Single_Responsibility_Principle.csproj",
+      "projectName": "Good_Single_Responsibility_Principle",
+      "projectPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/Good_Single_Responsibility_Principle.csproj",
+      "packagesPath": "/Users/serkaneren/.nuget/packages/",
+      "outputPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/serkaneren/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "http://nuget.iddaa.com/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

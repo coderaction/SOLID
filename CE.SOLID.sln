@@ -1,8 +1,34 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - SRP", "1 - SRP", "{45446857-99A1-4822-BA51-382AB4A6A428}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP.BAD", "SRP.BAD", "{F996665B-5EB5-4589-8C54-A33194768F44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP.GOOD", "SRP.GOOD", "{40A72347-3BCA-4B1C-9557-2209842AABD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bad-Single-Responsibility-Principle", "Bad-Single-Responsibility-Principle\Bad-Single-Responsibility-Principle.csproj", "{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good_Single_Responsibility_Principle", "Good_Single_Responsibility_Principle\Good_Single_Responsibility_Principle.csproj", "{D63D29F6-5F1A-4655-9D7E-65197076DD60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F996665B-5EB5-4589-8C54-A33194768F44} = {45446857-99A1-4822-BA51-382AB4A6A428}
+		{40A72347-3BCA-4B1C-9557-2209842AABD7} = {45446857-99A1-4822-BA51-382AB4A6A428}
+		{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E} = {F996665B-5EB5-4589-8C54-A33194768F44}
+		{D63D29F6-5F1A-4655-9D7E-65197076DD60} = {40A72347-3BCA-4B1C-9557-2209842AABD7}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D92668-53B1-4E4A-B7FE-DF72B5CFF04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63D29F6-5F1A-4655-9D7E-65197076DD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63D29F6-5F1A-4655-9D7E-65197076DD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63D29F6-5F1A-4655-9D7E-65197076DD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63D29F6-5F1A-4655-9D7E-65197076DD60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
