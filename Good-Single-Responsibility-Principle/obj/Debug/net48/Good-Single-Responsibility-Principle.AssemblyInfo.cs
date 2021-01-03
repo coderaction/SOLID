@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Good_Single_Responsibility_Principle")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Good-Single-Responsibility-Principle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Good_Single_Responsibility_Principle")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Good_Single_Responsibility_Principle")]
+[assembly: System.Reflection.AssemblyProductAttribute("Good-Single-Responsibility-Principle")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Good-Single-Responsibility-Principle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

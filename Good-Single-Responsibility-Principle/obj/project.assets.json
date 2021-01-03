@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/Good_Single_Responsibility_Principle.csproj",
-      "projectName": "Good_Single_Responsibility_Principle",
-      "projectPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/Good_Single_Responsibility_Principle.csproj",
+      "projectUniqueName": "/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/Good-Single-Responsibility-Principle.csproj",
+      "projectName": "Good-Single-Responsibility-Principle",
+      "projectPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/Good-Single-Responsibility-Principle.csproj",
       "packagesPath": "/Users/serkaneren/.nuget/packages/",
-      "outputPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good_Single_Responsibility_Principle/obj/",
+      "outputPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
