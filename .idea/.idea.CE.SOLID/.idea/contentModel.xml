@@ -16,6 +16,14 @@
             <e p="User.cs" t="Include" />
           </e>
         </e>
+        <e p="2 - OCP" t="Include">
+          <e p="OCP.BAD" t="Include">
+            <e p="BadExample.cs" t="Include" />
+          </e>
+          <e p="OCP.GOOD" t="Include">
+            <e p="GoodExample.cs" t="Include" />
+          </e>
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="CE.SOLID.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
