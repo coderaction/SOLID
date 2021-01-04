@@ -1,5 +1,6 @@
 using System.Data;
 using System.Data.SqlClient;
+using CE.SOLID.SRP.GOOD;
 
 namespace Good_Single_Responsibility_Principle
 {

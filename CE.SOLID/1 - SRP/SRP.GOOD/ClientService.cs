@@ -1,3 +1,5 @@
+using CE.SOLID.SRP.GOOD;
+
 namespace Good_Single_Responsibility_Principle
 {
     public class ClientService
