@@ -1,7 +1,0 @@
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/bin/Debug/net48/Good-Single-Responsibility-Principle.dll
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/bin/Debug/net48/Good-Single-Responsibility-Principle.pdb
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/obj/Debug/net48/Good-Single-Responsibility-Principle.csprojAssemblyReference.cache
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/obj/Debug/net48/Good-Single-Responsibility-Principle.AssemblyInfoInputs.cache
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/obj/Debug/net48/Good-Single-Responsibility-Principle.AssemblyInfo.cs
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/obj/Debug/net48/Good-Single-Responsibility-Principle.dll
-/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/obj/Debug/net48/Good-Single-Responsibility-Principle.pdb
