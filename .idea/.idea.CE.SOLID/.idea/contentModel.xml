@@ -2,40 +2,32 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="1 - SRP" t="Include">
-        <e p="SRP.BAD" t="Include" />
-        <e p="SRP.GOOD" t="Include" />
-      </e>
-      <e p="Bad-Single-Responsibility-Principle" t="IncludeRecursive">
-        <e p="Bad-Single-Responsibility-Principle.csproj" t="IncludeRecursive" />
+      <e p="CE.SOLID" t="IncludeRecursive">
+        <e p="1 - SRP" t="Include">
+          <e p="SRP.BAD" t="Include">
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="SRP.GOOD" t="Include">
+            <e p="Client.cs" t="Include" />
+            <e p="ClientRepository.cs" t="Include" />
+            <e p="ClientService.cs" t="Include" />
+            <e p="CPFServices.cs" t="Include" />
+            <e p="EmailServices.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+        </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="CE.SOLID.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net48" t="Include">
-              <e p="Bad-Single-Responsibility-Principle.AssemblyInfo.cs" t="Include" />
+              <e p="CE.SOLID.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
-        <e p="User.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
       </e>
       <e p="CE.SOLID.sln" t="IncludeFlat" />
-      <e p="Good-Single-Responsibility-Principle" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="Client.cs" t="Include" />
-        <e p="ClientRepository.cs" t="Include" />
-        <e p="ClientService.cs" t="Include" />
-        <e p="CPFServices.cs" t="Include" />
-        <e p="EmailServices.cs" t="Include" />
-        <e p="Good-Single-Responsibility-Principle.csproj" t="IncludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="net48" t="Include">
-              <e p="Good-Single-Responsibility-Principle.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-        <e p="User.cs" t="Include" />
-      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />

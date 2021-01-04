@@ -1,0 +1,76 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Good-Single-Responsibility-Principle/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/Good-Single-Responsibility-Principle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Good-Single-Responsibility-Principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Good-Single-Responsibility-Principle/1.0.0": {
+      "type": "project",
+      "path": "../Good-Single-Responsibility-Principle/Good-Single-Responsibility-Principle.csproj",
+      "msbuildProject": "../Good-Single-Responsibility-Principle/Good-Single-Responsibility-Principle.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Good-Single-Responsibility-Principle >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/serkaneren/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/CE.SOLID.csproj",
+      "projectName": "CE.SOLID",
+      "projectPath": "/Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/CE.SOLID.csproj",
+      "packagesPath": "/Users/serkaneren/.nuget/packages/",
+      "outputPath": "/Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/serkaneren/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "http://nuget.iddaa.com/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/Good-Single-Responsibility-Principle.csproj": {
+              "projectPath": "/Users/serkaneren/Desktop/gitP/SOLID/Good-Single-Responsibility-Principle/Good-Single-Responsibility-Principle.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
