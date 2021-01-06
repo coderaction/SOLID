@@ -1,11 +1,8 @@
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/bin/Debug/net48/CE.SOLID.exe.config
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/bin/Debug/net48/CE.SOLID.exe
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/bin/Debug/net48/CE.SOLID.pdb
-/Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/bin/Debug/net48/Good-Single-Responsibility-Principle.dll
-/Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/bin/Debug/net48/Good-Single-Responsibility-Principle.pdb
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/Debug/net48/CE.SOLID.csprojAssemblyReference.cache
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/Debug/net48/CE.SOLID.AssemblyInfoInputs.cache
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/Debug/net48/CE.SOLID.AssemblyInfo.cs
-/Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/Debug/net48/CE.SOLID.csproj.CopyComplete
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/Debug/net48/CE.SOLID.exe
 /Users/serkaneren/Desktop/gitP/SOLID/CE.SOLID/obj/Debug/net48/CE.SOLID.pdb

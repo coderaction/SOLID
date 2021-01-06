@@ -51,6 +51,4 @@ namespace CE.SOLID.OCP.GOOD
             vehicle.Produce();
         }
     }
-    
-    
 }
